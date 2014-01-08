@@ -7,6 +7,8 @@ A Game that Attempts to Demo MVC for Android
 
 ////jajaja
 
+CONFLICT -> pull edit commit push
+
 License
 =======
 
